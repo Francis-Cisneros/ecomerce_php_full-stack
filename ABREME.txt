@@ -1,0 +1,22 @@
+Usuario Administrador: hector@utp.edu.pe
+Contraseña:12345
+Nuestro proyecto final, esta listo para subirse aun servidor web donde se podra visualizar el correcto funcionamiento del API de paypal y las notificaciones del correo seleccionada 
+(esto debido al uso de  phpmailer). Ademas nos permitira recupérar contraseñas (si por alguno motivo, pierdes la contraseña)
+
+Usuario Cliente:marco@gmail.com
+Contraseña:12345
+
+Usuario Vendedor: juan@gmail.com
+Contraseña: 12345
+
+Usuario Supervisor: martha@gmail.com
+Contraseña: 12345
+
+Nota: Recuerde que en el archivo Config.php, se debe cambiar el nombre de la base de datos (poner el nombre actual de la base de la base de datos)
+ en const DB_NAME = "(CAMBIAR AQUI)";
+Ademas si surge una falla en el proceso de inicio, recuerde que se dbe cambiar la url base,
+ se encuentra en la primera linea con el nombre de const BASE_URL = "http://localhost/(CAMBIAR AQUI)/";
+
+Nosotros hemos usado varias API para el correcto funcionamiento de la pagina web
+
+Proximamente actualizaciones! 
